@@ -35,7 +35,7 @@
         },
         "from": {
           "kind": "DockerImage",
-          "name": "registry.access.redhat.com/openshift3/jenkins-2-rhel7:v3.9"
+          "name": "<dockerhub>/in-the-keyhole/openshift-jenkins-2-rhel7:v3.6"
         }
       }
     ]
